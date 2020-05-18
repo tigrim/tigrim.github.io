@@ -1,20 +1,7 @@
 {
   "applinks": {
+    "apps": [],
     "details": [
-      {
-        "appIDs": [
-          "58JD9U943K.biz.easydate.ichat",
-          "B3NEL9E2LV.com.cupid.uniformdating",
-          "B3NEL9E2LV.com.cupid.mduk",
-          "2YJM3682L2.com.tn.testuniversallink88"
-        ],
-        "components": [
-          {
-            "/": "/user/view/id/*",
-            "comment": "Matches any URL whose path starts with /user/view/id/"
-          }
-        ]
-      },
       {
         "appID": "58JD9U943K.biz.easydate.ichat",
         "paths": [
@@ -34,14 +21,17 @@
         ]
       },
       {
+        "appID": "B3NEL9E2LV.com.cupid.loveagain",
+        "paths": [
+          "/user/view/id/*"
+        ]
+      },
+      {
         "appID": "2YJM3682L2.com.tn.testuniversallink88",
         "paths": [
-          "*"
+          "/user/view/id/*"
         ]
       }
     ]
-  },
-  "webcredentials": {
-    "apps": []
   }
 }
