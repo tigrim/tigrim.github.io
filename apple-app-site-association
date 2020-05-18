@@ -3,30 +3,6 @@
     "apps": [],
     "details": [
       {
-        "appID": "58JD9U943K.biz.easydate.ichat",
-        "paths": [
-          "/user/view/id/*"
-        ]
-      },
-      {
-        "appID": "B3NEL9E2LV.com.cupid.uniformdating",
-        "paths": [
-          "/user/view/id/*"
-        ]
-      },
-      {
-        "appID": "B3NEL9E2LV.com.cupid.mduk",
-        "paths": [
-          "/user/view/id/*"
-        ]
-      },
-      {
-        "appID": "B3NEL9E2LV.com.cupid.loveagain",
-        "paths": [
-          "/user/view/id/*"
-        ]
-      },
-      {
         "appID": "2YJM3682L2.com.tn.testuniversallink88",
         "paths": [
           "/user/view/id/*"
