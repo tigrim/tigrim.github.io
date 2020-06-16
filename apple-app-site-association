@@ -4,9 +4,7 @@
     "details": [
       {
         "appID": "B3NEL9E2LV.com.cupid.loveagain",
-        "paths": [
-          "/user/view/id/*"
-        ]
+        "paths": ["/site/autologin/*","/site/passwordrecovery/*"]
       }
     ]
   }
