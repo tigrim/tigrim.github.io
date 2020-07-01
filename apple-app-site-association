@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "B3NEL9E2LV.com.aneto.taptodate2020",
+        "appID": "B3NEL9E2LV.com.cupid.loveagain",
         "paths": ["/site/autologin/*","/site/passwordrecovery/*"]
       }
     ]
