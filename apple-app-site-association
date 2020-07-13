@@ -1,11 +1,9 @@
 {
-  "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appID": "B3NEL9E2LV.com.cupid.loveagain",
-        "paths": ["/site/autologin/*","/site/passwordrecovery/*"]
-      }
-    ]
-  }
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "B3NEL9E2LV.com.cupid.loveagain",
+            "paths": ["/site/autologin", "/site/autologin/*"]
+        }]
+    }
 }
